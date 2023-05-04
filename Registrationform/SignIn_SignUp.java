@@ -45,11 +45,11 @@ public  class SignIn_SignUp extends Registration{
                                 System.out.println("Welcome to Home page :-\n");
                                 System.out.println("**********");
                                 System.out.println("thanks for visiting our page ");
-                                System.out.println("created by the Tushar");
+                                
                                 System.out.println("**********");
                                 System.out.println("\n");
 
-                                System.out.println("special thanks to MUKUL sir :-) \n");
+                            
                             } else {
                                 flag = false;
                                 System.out.println("you entered wrong password");
